@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://www.freepnglogos.com/uploads/fox-news-png-logo/apps-and-products-fox-news-png-logo-0.png",FOX NEWS FHD
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/670703.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://www.freepnglogos.com/uploads/fox-news-png-logo/apps-and-products-fox-news-png-logo-0.png",FOX NEWS HD
+http://coneasy.lat:80/live/kyeoj2w4/0drti608/670704.ts
+#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://www.freepnglogos.com/uploads/fox-news-png-logo/apps-and-products-fox-news-png-logo-0.png",FOX NEWS SD
 #EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1024px-Euronews_2016_logo.svg.png",EURONEWS EN ENGLISH
 http://coneasy.lat:80/live/kyeoj2w4/0drti608/670701.ts
 #EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1024px-Euronews_2016_logo.svg.png",EURONEWS EN ESPANOL
