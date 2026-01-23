@@ -1,90 +1,41 @@
 #EXTM3U
-
-#############################
-#   CANAIS PÚBLICOS FEDERAIS
-#############################
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/tvbrasil.png",TV Brasil
 https://video-rj-1-bt.claro.tv.br/hls/tvbrasil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.camara.leg.br/favicon/android-icon-192x192.png",TV Câmara
 https://stream.camara.leg.br/tv1/manifest.m3u8
-
 #EXTINF:-1 tvg-logo="https://www12.senado.leg.br/institucional/logotipos/logo-senado-azul.png",TV Senado
 https://senado-2-lives.dck01.com/live/tvsenado_4k.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.justica.gov.br/_themes/justica-2015/img/logo-justica.png",TV Justiça
 https://streaming.tse.jus.br/live/tvjustica.m3u8
-
-#############################
-#   CANAIS ESTADUAIS / ASSEMBLEIAS
-#############################
-
 #EXTINF:-1 tvg-logo="https://www.al.ce.gov.br/templates/alce/images/logo.png",TV Assembleia CE
 https://srv3.zcast.com.br/tvalce/tvalce/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.al.ba.gov.br/img/logo.png",TV Assembleia BA
 https://stream.ba.gov.br/tvalba/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.al.go.leg.br/imagens/logo.png",TV Assembleia GO
 https://video-rj-2-bt.claro.tv.br/hls/tvalgo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.al.mt.gov.br/application/themes/base/assets/images/logo-al.png",TV Assembleia MT
 https://stmv1.srvstm.com/tvalmt/tvalmt/playlist.m3u8
-
-#############################
-#   TVs EDUCATIVAS / CULTURAIS
-#############################
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1474447734885990402/tvcultura_400x400.png",TV Cultura
 https://stream-cultura-br.nyc3.cdn.digitaloceanspaces.com/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.tvefmcultura.com.br/wp-content/uploads/2020/10/logo.png",TVE Cultura RS
 https://cdn.jmvstream.com/w/AVfWqeJsqkY-2160/playlist/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/tvebahia/logo.png",TVE Bahia
 https://stream.ba.gov.br/tvebahia/playlist.m3u8
-
-#############################
-#   TVs UNIVERSITÁRIAS
-#############################
-
 #EXTINF:-1 tvg-logo="https://www.univesp.br/arquivos_univesp/logotipo.png",Univesp TV
 https://videos.univesp.br/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.ufmg.br/wp-content/uploads/2020/06/logo-ufmgtv.png",TV UFMG
 https://stream.ufmg.br/hls/tvufmg.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.unb.br/images/unbtv/logo.png",UNB TV
 https://stream.unbtv.br/live/unbtv.m3u8
-
-#############################
-#   TVs RELIGIOSAS (OFICIAIS)
-#############################
-
 #EXTINF:-1 tvg-logo="https://redevida.com.br/favicon/android-icon-192x192.png",Rede Vida
 https://cdn.jmvstream.com/w/AVfWqeJsqkY-1197/playlist/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvnovotempo.com/favicon/android-icon-192x192.png",Novo Tempo
 https://stream-live.novotempo.com/novotempo-live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tv.cancaonova.com/wp-content/uploads/2017/08/tv-cn-color.png",Canção Nova
 https://tv.jmvstream.com/w/AVfWqeJsqkY-793/playlist.m3u8
-
-#############################
-#   WEBTVs OFICIAIS E LEGAIS
-#############################
-
 #EXTINF:-1 tvg-logo="https://www.rtp.pt/includes/assets/images/rtpi.png",RTP Internacional
 https://stream.rtp.pt/live/rtpi/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.dw.com/favicon-256x256.png",DW Brasil
 https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/cmd/master.m3u8
-
-#############################
-#   RÁDIOS COM VÍDEO
-#############################
-
 #EXTINF:-1 tvg-logo="https://www.cbn.com.br/favicon-228.png",Rádio CBN (WebTV)
 https://cbn.globoradio.globo.com/webtv/cbnvideo.m3u8
-
