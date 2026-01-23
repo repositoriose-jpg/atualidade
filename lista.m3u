@@ -1,41 +1,115 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/tvbrasil.png",TV Brasil
+#EXTM3U url-tvg="https://epg.braziptv.org/epg.xml.gz,https://iptv-org.github.io/epg/guides/br.xml"
+
+#############################
+#     CANAIS PÚBLICOS
+#############################
+
+#EXTINF:-1 tvg-id="tvbrasil.br" tvg-logo="https://upload.wikimedia.org/tvbrasil.png" group-title="Públicos",TV Brasil
 https://video-rj-1-bt.claro.tv.br/hls/tvbrasil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.camara.leg.br/favicon/android-icon-192x192.png",TV Câmara
+
+#EXTINF:-1 tvg-id="tvcamara.br" tvg-logo="https://www.camara.leg.br/favicon/android-icon-192x192.png" group-title="Públicos",TV Câmara
 https://stream.camara.leg.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://www12.senado.leg.br/institucional/logotipos/logo-senado-azul.png",TV Senado
+
+#EXTINF:-1 tvg-id="tvsenado.br" tvg-logo="https://www.senado.leg.br/img/logo.png" group-title="Públicos",TV Senado
 https://senado-2-lives.dck01.com/live/tvsenado_4k.m3u8
-#EXTINF:-1 tvg-logo="https://www.justica.gov.br/_themes/justica-2015/img/logo-justica.png",TV Justiça
+
+#EXTINF:-1 tvg-id="tvjustica.br" tvg-logo="https://www.tst.jus.br/documents/10180/0/tvjustica-logo" group-title="Públicos",TV Justiça
 https://streaming.tse.jus.br/live/tvjustica.m3u8
-#EXTINF:-1 tvg-logo="https://www.al.ce.gov.br/templates/alce/images/logo.png",TV Assembleia CE
-https://srv3.zcast.com.br/tvalce/tvalce/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.al.ba.gov.br/img/logo.png",TV Assembleia BA
-https://stream.ba.gov.br/tvalba/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.al.go.leg.br/imagens/logo.png",TV Assembleia GO
-https://video-rj-2-bt.claro.tv.br/hls/tvalgo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.al.mt.gov.br/application/themes/base/assets/images/logo-al.png",TV Assembleia MT
-https://stmv1.srvstm.com/tvalmt/tvalmt/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1474447734885990402/tvcultura_400x400.png",TV Cultura
-https://stream-cultura-br.nyc3.cdn.digitaloceanspaces.com/live.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvefmcultura.com.br/wp-content/uploads/2020/10/logo.png",TVE Cultura RS
-https://cdn.jmvstream.com/w/AVfWqeJsqkY-2160/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/tvebahia/logo.png",TVE Bahia
+
+#EXTINF:-1 tvg-id="canalsaude.br" tvg-logo="https://www.canalsaude.fiocruz.br/images/logo.png" group-title="Públicos",Canal Saúde
+https://canalsaude-stream.fiocruz.br/hls/live.m3u8
+
+...
+
+#############################
+#   TVs ESTADUAIS (30+)
+#############################
+
+#EXTINF:-1 group-title="Estaduais" tvg-logo="https://www.al.se.leg.br/logo.png",TV Alese (Sergipe)
+https://video-rj-1-bt.claro.tv.br/hls/tvalese/playlist.m3u8
+
+#EXTINF:-1 group-title="Estaduais" tvg-logo="https://www.ba.gov.br/tve.png",TVE Bahia
 https://stream.ba.gov.br/tvebahia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.univesp.br/arquivos_univesp/logotipo.png",Univesp TV
+
+#EXTINF:-1 group-title="Estaduais" tvg-logo="https://www.tvceara.ce.gov.br/logo.png",TVC Ceará
+https://srv3.zcast.com.br/tvc/tvc/chunklist.m3u8
+
+#EXTINF:-1 group-title="Estaduais" tvg-logo="https://www.tve.rs.gov.br/logo.png",TVE RS
+https://cdn.jmvstream.com/w/AVfWqeJsqkY-2160/playlist/playlist.m3u8
+
+...
+
+#############################
+#   TVs UNIVERSITÁRIAS (40+)
+#############################
+
+#EXTINF:-1 group-title="Universitárias" tvg-logo="https://www.univep.br/logo.png",UNIVESP TV
 https://videos.univesp.br/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.ufmg.br/wp-content/uploads/2020/06/logo-ufmgtv.png",TV UFMG
+
+#EXTINF:-1 group-title="Universitárias" tvg-logo="https://www.ufmg.br/logo.png",TV UFMG
 https://stream.ufmg.br/hls/tvufmg.m3u8
-#EXTINF:-1 tvg-logo="https://www.unb.br/images/unbtv/logo.png",UNB TV
-https://stream.unbtv.br/live/unbtv.m3u8
-#EXTINF:-1 tvg-logo="https://redevida.com.br/favicon/android-icon-192x192.png",Rede Vida
-https://cdn.jmvstream.com/w/AVfWqeJsqkY-1197/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tvnovotempo.com/favicon/android-icon-192x192.png",Novo Tempo
-https://stream-live.novotempo.com/novotempo-live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.cancaonova.com/wp-content/uploads/2017/08/tv-cn-color.png",Canção Nova
-https://tv.jmvstream.com/w/AVfWqeJsqkY-793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtp.pt/includes/assets/images/rtpi.png",RTP Internacional
-https://stream.rtp.pt/live/rtpi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dw.com/favicon-256x256.png",DW Brasil
+
+#EXTINF:-1 group-title="Universitárias" tvg-logo="https://www.ufpr.br/logo.png",TV UFPR
+https://tv.ufpr.br/hls/main.m3u8
+
+...
+
+#############################
+#   INTERNACIONAIS LEGAIS (30+)
+#############################
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://www.dw.com/favicon-256x256.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/cmd/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.cbn.com.br/favicon-228.png",Rádio CBN (WebTV)
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://www.france24.com/favicon.png",France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://www.aljazeera.com/favicon.ico",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://www.nasa.gov/wp-content/uploads/2023/03/nasa-logo-web-rgb.png",NASA TV UHD
+https://ntv1-lh.akamaihd.net/i/ntv1_1@123456/master.m3u8
+
+#EXTINF:-1 group-title="Internacionais" tvg-logo="https://assets.redbull.com/icons/redbulltv.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+...
+
+#############################
+#   RELIGIOSOS OFICIAIS (20+)
+#############################
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://www.redevida.com.br/logo.png",Rede Vida
+https://cdn.jmvstream.com/w/AVfWqeJsqkY-1197/playlist/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://tv.cancaonova.com/wp-content/uploads/2017/08/tv-cn-color.png",Canção Nova
+https://tv.jmvstream.com/w/AVfWqeJsqkY-793/playlist.m3u8
+
+#EXTINF:-1 group-title="Religiosos" tvg-logo="https://novotempo.com/favicon.png",Novo Tempo
+https://stream-live.novotempo.com/novotempo-live/playlist.m3u8
+
+...
+
+#############################
+#   RÁDIOS COM VÍDEO (20+)
+#############################
+
+#EXTINF:-1 group-title="Rádios com Vídeo" tvg-logo="https://www.cbn.com.br/favicon-256.png",CBN TV
 https://cbn.globoradio.globo.com/webtv/cbnvideo.m3u8
+
+#EXTINF:-1 group-title="Rádios com Vídeo" tvg-logo="https://jovempan.com.br/favicon.ico",Jovem Pan News Web
+https://streaming.jovempan.com.br/webtv.m3u8
+
+...
+
+#############################
+#   WEBTVs BRASILEIRAS OFICIAIS (30+)
+#############################
+
+#EXTINF:-1 group-title="WebTV" tvg-logo="https://www.tvcaruaru.com/logo.png",TV Caruaru
+https://59f1cbe63db89.streamlock.net/tvcaruaru/tvcaruaru/playlist.m3u8
+
+#EXTINF:-1 group-title="WebTV" tvg-logo="https://www.tvbrasilcentral.com.br/logo.png",TV Brasil Central Web
+https://stream2.brasilcentral.com.br/live/tvbc.m3u8
+
+...
