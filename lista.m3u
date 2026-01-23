@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://www.freepnglogos.com/uploads/fox-news-png-logo/apps-and-products-fox-news-png-logo-0.png",FOX NEWS FHD
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/670703.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://www.freepnglogos.com/uploads/fox-news-png-logo/apps-and-products-fox-news-png-logo-0.png",FOX NEWS HD
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/670704.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://www.freepnglogos.com/uploads/fox-news-png-logo/apps-and-products-fox-news-png-logo-0.png",FOX NEWS SD
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1024px-Euronews_2016_logo.svg.png",EURONEWS EN ENGLISH
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/670701.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1024px-Euronews_2016_logo.svg.png",EURONEWS EN ESPANOL
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/670700.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1024px-Euronews_2016_logo.svg.png",EURONEWS EN PORTUGUES
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://telaviva.com.br/wp-content/uploads/2024/03/CNBC.png",CNBC BRASIL
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/670709.ts
-#EXTINF:-1 group-title="⏺️ 4K UHD",CNN BRASIL 4K
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/644871.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN BRASIL FHD
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/44724.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN BRASIL HD
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/44723.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN BRASIL SD
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/57528.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN INTERNACIONAL FHD
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/608157.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN INTERNACIONAL HD
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/608156.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN INTERNACIONAL SD
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/608155.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN MONEY
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/670706.ts
-#EXTINF:-1 group-title="⏺️ NOTICIA" tvg-logo="https://easypr1.com/Logos/cnn.png",CNN PORTUGAL
-http://coneasy.lat:80/live/kyeoj2w4/0drti608/670707.ts
 #EXTINF:-1 group-title="ESPORTE", 001 UFC FIGHT PASS
 http://granpirosh.top/live/841866657/c581b7318b/250112.m3u8
 #EXTINF:-1 group-title="ESPORTE", 002 UFC FIGHT PASS 2
